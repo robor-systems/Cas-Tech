@@ -24,6 +24,7 @@ const Home = () => {
       <Hero />
       <Companies />
       <Services />
+
       <AboutUs />
       <Career />
       <BookConsultation />
